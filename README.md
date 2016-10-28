@@ -7,6 +7,9 @@ Arquitectura/Tecnologías
 Se utiliza Librería jersey versión 1.12 para la generación de webservice con estándar JAX-RS
 Se utiliza Java EE version 6 como aplicación Web desplegado en servidor Weblogic 12c (requerimiento).
 
+Consumo de WS
+
+Ejemplo considera consumo de los webservices bajo la ruta: http://localhost:7001/KunderSample1/webresources/
 
 Consideraciones:
 

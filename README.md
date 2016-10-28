@@ -12,11 +12,14 @@ Consideraciones:
 
 
 Requerimiento 1
+
 Se asume que largo de palabra debe ser siempre 4. De lo contrario se arrojará error BAD Request.
+
 Se asume que palabra contendrá sólo letras. De lo contrario se arrojará error BAD Request.
 
 
 Requerimiento 2
+
 Se asume como fecha de salida la fecha de ejecución. Esto dado que parámetro de entrada sólo considera hora (ej: HH:mm:ss).
 
 

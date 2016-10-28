@@ -32,3 +32,5 @@ Fuentes/Documentación
 
 
 https://github.com/jlvarela/KunderWebservices.git
+
+IMPORTANTE: En Sección Releases se puede obtener el WAR solicitado
